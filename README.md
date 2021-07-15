@@ -2,6 +2,8 @@
 
 I'm Ritu from India with keen interest on Design and Development of Web Apps. I really enjoy working with React and love the challenge of converting UI/ UX design wireframes to actual code that produces visual elements of the application.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritu-digital)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ritu-digital/ritu-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

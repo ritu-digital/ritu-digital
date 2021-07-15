@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ritu from India with keen interest on Design and Development of Web Apps. I really enjoy working with React and love the challenge of converting UI/ UX design wireframes to actual code that produces visual elements of the application.
+
 <!--
 **ritu-digital/ritu-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

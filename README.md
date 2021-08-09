@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ritu from India with keen interest on Design and Development of Web Apps. I really enjoy working with React and love the challenge of converting UI/ UX design wireframes to actual code with exceptional user Experience.
+I'm Ritu from India with keen interest on Design and Development of Web Apps. I really enjoy working with React and love the challenge of converting UI/ UX design wireframes to actual code with exceptional User Experience.
 
 #### Design and Development
 
